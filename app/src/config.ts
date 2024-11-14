@@ -11,7 +11,7 @@ export default defineConfig({
           media: {
             type: 'sticker',
             src: import('./assets/stickers/duck_hello.tgs'),
-            size: 150,
+            size: 100,
           },
           shape: 'square',
           pagination: 'count',
@@ -41,7 +41,7 @@ export default defineConfig({
           media: {
             type: 'sticker',
             src: import('./assets/stickers/duck_spy.tgs'),
-            size: 150,
+            size: 100,
           },
           shape: 'square',
           pagination: 'count',
@@ -82,7 +82,7 @@ export default defineConfig({
           media: {
             type: 'sticker',
             src: import('./assets/stickers/duck_juggling.tgs'),
-            size: 150,
+            size: 100,
           },
           shape: 'square',
           pagination: 'count',
@@ -139,7 +139,7 @@ export default defineConfig({
           media: {
             type: 'sticker',
             src: import('./assets/stickers/duck_love.tgs'),
-            size: 150,
+            size: 100,
           },
           shape: 'square',
           pagination: 'count',
@@ -161,7 +161,7 @@ export default defineConfig({
       media: {
         type: 'sticker',
         src: import('./assets/stickers/duck_money.tgs'),
-        size: 150,
+        size: 100,
       },
       shape: 'square',
       title: 'Invest and Earn',
