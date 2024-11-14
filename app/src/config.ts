@@ -119,49 +119,6 @@ export default defineConfig({
           button: 'Next',
         },
 
-        // "everything is customizable" slide
-        {
-          media: {
-            type: 'sticker',
-            src: import('./assets/stickers/duck_xray.tgs'),
-            size: 250,
-          },
-          shape: 'square',
-          pagination: 'count',
-          title: 'Everything is customizable',
-          description: '',
-          textAlign: 'center',
-          list: [
-            '<b>CSS styles</b>: extend primary colors from Telegram or set yours',
-            'Button text and actions (look down)',
-            'Use our carefully crafted <b>presets</b> or easily create your own',
-          ],
-          button: 'Super-Duper Next',
-        },
-
-        // slide with other features
-        {
-          media: {
-            type: 'sticker',
-            src: import('./assets/stickers/duck_cool.tgs'),
-            size: 150,
-          },
-          shape: 'square',
-          pagination: 'count',
-          title: 'Some other features:',
-          description: '',
-          list: [
-            'One-click 0$ <b>deploy</b> on GitHub Pages',
-            'Language and currency localization',
-            'Buttons with <b>haptic</b> feedback',
-            'Content pre-loading for high speed',
-            '<b>Low-code</b> approach to building onboardings',
-            'Many examples/presets',
-            "And many more... (see <a href='https://github.com/Easterok/telegram-onboarding-kit' target='_blank'>GitHub</a>)",
-          ],
-          button: 'Next',
-        },
-
         // go to paywall slide
         {
           media: {
@@ -173,7 +130,7 @@ export default defineConfig({
           pagination: 'count',
           textAlign: 'center',
           title: 'But onboarding slides are not enough...',
-          description: "Let's go to Paywall",
+          description: "Let's go to Pay Now",
           button: {
             content: 'Go to Paywall',
             to: '/paywall',
@@ -192,10 +149,9 @@ export default defineConfig({
         size: 150,
       },
       shape: 'square',
-      title: 'Your beautiful Paywall',
+      title: 'Checkout Now,
       list: [
-        'Adjustable product cards',
-        '<b>👛 Wallet Pay</b> and <b>Telegram Payments</b> ready. Add custom methods easily',
+        '<b>👛 Wallet Pay</b> and <b>Telegram Payments</b> ready.',
         'Subscriptions or One-time payments',
       ],
       products: [
