@@ -17,7 +17,7 @@ export default defineConfig({
           pagination: 'count',
           title: 'Welcome to NiftyFund Onboarding',
           description:
-            "NiftyFund is the best fund ever because it offers exposure to <b>Node Running</b>, <b>AI-based Cryptocurrency Trading</b>, <b>Precious Metals and Real-World Assets (RWAs)</b>!",
+            "NiftyFund offers exposure to <b>Node Running</b>, <b>AI-based Cryptocurrency Trading</b>, <b>Non-Fungible Tokens (NFTs)</b> , <b>Precious Metals</b> and Real-World Assets (RWAs)</b>!",
           button: 'Next',
         },
 
@@ -29,9 +29,9 @@ export default defineConfig({
           },
           shape: 'rounded',
           pagination: 'count',
-          title: 'Invest with Peace of Mind',
+          title: 'Invest with Peace of Mind & Full Autonomy',
           description:
-            "This is just the beginning...",
+            "This is just the beginning... You are here early... Congratulations!",
           button: 'Next',
         },
 
@@ -45,17 +45,17 @@ export default defineConfig({
           },
           shape: 'square',
           pagination: 'count',
-          title: 'How many nodes do you want to buy?',
+          title: 'How many nodes would you like?',
           description: 'Please fill in the form',
           form: [
             {
               id: 'number_from_form',
-              placeholder: 'Number input',
+              placeholder: 'Amount',
               type: 'number',
             },
             {
               id: 'checkbox_from_form',
-              placeholder: 'RWAs',
+              placeholder: 'I'm interested in RWAs',
               type: 'checkbox',
             },
           ],
@@ -74,7 +74,7 @@ export default defineConfig({
           pagination: 'count',
           title: 'Videos',
           description:
-            "Welcome to NiftyFund",
+            "Welcome to NiftyFund... Our journey together begins now.",
           button: 'Next',
         },
 
@@ -89,7 +89,7 @@ export default defineConfig({
           pagination: 'count',
           title: 'Assets',
           description:
-            'Lists can be used to showcase <b>features</b> of your product. Items support customizable icons',
+            '<b>NiftyFund Features</b>',
           list: [
             {
               media: {
@@ -113,7 +113,15 @@ export default defineConfig({
                 src: import('./assets/icons/time.svg'),
                 size: 30,
               },
-              text: 'Pump Up Your Portfolio',
+              text: 'Non-Fungible Tokens (NFTs)',
+            },
+	    {
+              media: {
+                type: 'icon',
+                src: import('./assets/icons/time.svg'),
+                size: 30,
+              },
+              text: 'Precious Metals',
             },
             {
               media: {
@@ -121,7 +129,7 @@ export default defineConfig({
                 src: import('./assets/icons/time.svg'),
                 size: 30,
               },
-              text: 'RWAs',
+              text: 'Real World Assets (RWAs)',
             },
           ],
           button: 'Next',
@@ -157,10 +165,9 @@ export default defineConfig({
         size: 150,
       },
       shape: 'square',
-      title: 'Your beautiful Paywall',
+      title: 'Please Choose Your Package',
       list: [
-        'Adjustable product cards',
-        '<b>👛 Wallet Pay</b> and <b>Telegram Payments</b> ready. Add custom methods easily',
+        '<b>👛 Wallet Pay</b> and <b>Telegram Payments</b> ready.',
         'Subscriptions or One-time payments',
       ],
       products: [
