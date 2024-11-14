@@ -53,9 +53,24 @@ export default defineConfig({
               placeholder: 'Number of Nodes',
               type: 'number',
             },
+	    {
+              id: 'checkbox_from_form',
+              placeholder: 'I am interested in Crypto',
+              type: 'checkbox',
+            },
+	    {
+              id: 'checkbox_from_form',
+              placeholder: 'I am interested in NFTs',
+              type: 'checkbox',
+            },
             {
               id: 'checkbox_from_form',
               placeholder: 'I am also interested in RWAs',
+              type: 'checkbox',
+            },
+	    {
+              id: 'checkbox_from_form',
+              placeholder: 'I am also interested in Precious Metals',
               type: 'checkbox',
             },
           ],
