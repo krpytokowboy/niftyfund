@@ -16,8 +16,7 @@ export default defineConfig({
           shape: 'square',
           pagination: 'count',
           title: 'Welcome to NiftyFund Onboarding',
-          description:
-            "NiftyFund offers exposure to <b>Node Running</b>, <b>AI-based Cryptocurrency Trading</b>, <b>Non-Fungible Tokens (NFTs)</b> , <b>Precious Metals</b> and Real-World Assets (RWAs)</b>!",
+          description: 'NiftyFund offers exposure to <b>Node Running</b>, <b>AI-based Cryptocurrency Trading</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Precious Metals</b> and Real-World Assets (RWAs)</b>!',
           button: 'Next',
         },
 
@@ -30,8 +29,7 @@ export default defineConfig({
           shape: 'rounded',
           pagination: 'count',
           title: 'Invest with Peace of Mind & Full Autonomy',
-          description:
-            'This is just the beginning... You are here early... Congratulations!',
+          description: 'This is just the beginning... You are here early... Congratulations!',
           button: 'Next',
         },
 
