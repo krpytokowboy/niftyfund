@@ -1,4 +1,4 @@
-<div><br class="Apple-interchange-newline">import { defineConfig } from '@tok/generation';
+import { defineConfig } from '@tok/generation';
 
 export default defineConfig({
   // If you want to add language/currency localization – see ./examples/meditation as reference
@@ -258,4 +258,4 @@ export default defineConfig({
       ],
     },
   ],
-});</div>
+});
