@@ -167,8 +167,8 @@ export default defineConfig({
       title: 'Invest and Earn',
       list: [
 	'<b>Airdrops</b> and <b>Rewards</b> for all contributions equivalent to your share of the fund',
-        '<b>Wallet Pay</b> and <b>Telegram Payments</b> ready',
-        'Subscriptions or One-time payments',
+        '<b>Subscriptions</b> or <b>One-Time Payments</b>',
+	'<b>Credit Cards</b> or <b>Crypto</b> kindly accepted',
       ],
       products: [
         {
