@@ -29,7 +29,7 @@ export default defineConfig({
           },
           shape: 'rounded',
           pagination: 'count',
-          title: 'Invest with Peace of Mind & Full Autonomy,
+          title: 'Invest with Peace of Mind and Full Autonomy,
           description:
             "This is just the beginning... You are here early... Congratulations!",
           button: 'Next',
