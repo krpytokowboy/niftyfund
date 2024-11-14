@@ -49,27 +49,27 @@ export default defineConfig({
           description: "How many nodes are you interested in gaining exposure to?",
           form: [
             {
-              id: 'number_from_form',
+              id: 'number_nodes_form',
               placeholder: 'Number of Nodes',
               type: 'number',
             },
 	    {
-              id: 'checkbox_from_form',
+              id: 'checkbox_crypto_form',
               placeholder: 'I am interested in Crypto',
               type: 'checkbox',
             },
 	    {
-              id: 'checkbox_from_form',
+              id: 'checkbox_nft_form',
               placeholder: 'I am interested in NFTs',
               type: 'checkbox',
             },
             {
-              id: 'checkbox_from_form',
+              id: 'checkbox_rwa_form',
               placeholder: 'I am also interested in RWAs',
               type: 'checkbox',
             },
 	    {
-              id: 'checkbox_from_form',
+              id: 'checkbox_metals_form',
               placeholder: 'I am also interested in Precious Metals',
               type: 'checkbox',
             },
