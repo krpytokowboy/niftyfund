@@ -31,7 +31,7 @@ export default defineConfig({
           //pagination: 'count',
           title: 'Invest with Peace of Mind and Autonomy',
           description:
-            "<b>Say NO to FOMO</b>... This is just the beginning... You are here early... Congratulations!",
+            "<b>Say NO to FOMO</b>... This is just the beginning... You are here early... Congratulations! 🥳 🫶 🎉",
           button: 'Next',
         },
 
