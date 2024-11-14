@@ -65,7 +65,7 @@ export default defineConfig({
             },
             {
               id: 'checkbox_rwa_form',
-              placeholder: 'I am also interested in RWAs',
+              placeholder: 'I am interested in RWAs',
               type: 'checkbox',
             },
 	    {
