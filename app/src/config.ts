@@ -29,7 +29,7 @@ export default defineConfig({
           },
           shape: 'rounded',
           pagination: 'count',
-          title: 'Onboarding supports many types of content',
+          title: 'Invest with Peace of Mind and Autonomy',
           description:
             "Here you can see <b>Image</b>. But it's just the beginning...",
           button: 'Next',
