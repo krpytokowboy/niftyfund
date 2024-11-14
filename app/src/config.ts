@@ -72,7 +72,7 @@ export default defineConfig({
           },
           shape: 'rounded',
           pagination: 'count',
-          title: 'Videos',
+          title: 'WELCOME',
           description:
             "Welcome to NiftyFund... Our journey together begins now.",
           button: 'Next',
