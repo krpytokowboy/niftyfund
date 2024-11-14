@@ -11,7 +11,7 @@ export default defineConfig({
           media: {
             type: 'sticker',
             src: import('./assets/stickers/duck_hello.tgs'),
-            size: 250,
+            size: 150,
           },
           shape: 'square',
           pagination: 'count',
@@ -82,7 +82,7 @@ export default defineConfig({
           media: {
             type: 'sticker',
             src: import('./assets/stickers/duck_juggling.tgs'),
-            size: 250,
+            size: 150,
           },
           shape: 'square',
           pagination: 'count',
@@ -139,7 +139,7 @@ export default defineConfig({
           media: {
             type: 'sticker',
             src: import('./assets/stickers/duck_love.tgs'),
-            size: 250,
+            size: 150,
           },
           shape: 'square',
           pagination: 'count',
