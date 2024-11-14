@@ -62,6 +62,22 @@ export default defineConfig({
           button: 'Next',
         },
 
+        // video
+        {
+          media: {
+            type: 'video',
+            src: import('./assets/videos/spongebob.mp4'),
+            poster: import('./assets/img/spongebob_poster.webp'),
+            style: 'aspect-ratio: 400/287', // here we manually set video aspect-ratio (default is 16:9)
+          },
+          shape: 'rounded',
+          pagination: 'count',
+          title: 'Videos',
+          description:
+            "Typically, video starts <b>automatically</b><br><br>However, on iOS, it will only autoplay upon any prior tap on the page ('Next' button doesn't count). If video doesn't autoplay, user will see preview and pretty animation, inviting them to tap to play the video",
+          button: 'Next',
+        },
+
         // list
         {
           media: {
