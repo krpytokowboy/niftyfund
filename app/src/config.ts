@@ -73,7 +73,7 @@ export default defineConfig({
           pagination: 'count',
           title: 'Fund Assets',
           description:
-            'NiftyFund diversifies into a variety of assets including',
+            "NiftyFund diversifies into a variety of assets including, but not limited to:",
           list: [
             {
               media: {
