@@ -31,7 +31,7 @@ export default defineConfig({
           pagination: 'count',
           title: 'Invest with Peace of Mind and Autonomy',
           description:
-            "Here you can see <b>Image</b>. But it's just the beginning...",
+            "This is just the beginning - You are here early - Congratulations!",
           button: 'Next',
         },
 
