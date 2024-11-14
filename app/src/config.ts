@@ -15,7 +15,7 @@ export default defineConfig({
           },
           shape: 'square',
           pagination: 'count',
-          title: 'Welcome to Telegram Onboarding Kit',
+          title: 'Welcome to NiftyFund Onboarding',
           description:
             "NiftyFund offers exposure to <b>Node Running</b>, <b>AI-based Cryptocurrency Trading</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Precious Metals</b> and Real-World Assets (RWAs)</b>!",
           button: 'Next',
@@ -29,9 +29,9 @@ export default defineConfig({
           },
           shape: 'rounded',
           pagination: 'count',
-          title: 'Onboarding supports many types of content',
+          title: 'Invest with Peace of Mind & Full Autonomy,
           description:
-            "Here you can see <b>Image</b>. But it's just the beginning...",
+            "This is just the beginning... You are here early... Congratulations!",
           button: 'Next',
         },
 
