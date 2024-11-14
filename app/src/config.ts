@@ -35,21 +35,6 @@ export default defineConfig({
           button: 'Next',
         },
 
-        // sticker
-        {
-          media: {
-            type: 'sticker',
-            src: import('./assets/stickers/duck_love.tgs'),
-            size: 250,
-          },
-          shape: 'square',
-          pagination: 'count',
-          title: 'Telegram stickers',
-          description:
-            'Just download any <b>.tgs</b> sticker from Telegram and use it in your onboardings',
-          button: 'Next',
-        },
-
         // form
         {
           extends: 'form', // note, it's important to extend from 'form' here
@@ -186,7 +171,7 @@ export default defineConfig({
         {
           media: {
             type: 'sticker',
-            src: import('./assets/stickers/duck_knife.tgs'),
+            src: import('./assets/stickers/duck_love.tgs'),
             size: 250,
           },
           shape: 'square',
