@@ -1,4 +1,4 @@
-# Telegram Onboarding Kit
+# NiftyFund Onboarding
 
 [Telegram Onboarding Kit](https://github.com/Easterok/telegram-onboarding-kit) is a simple-to-use tool for crafting **onboardings** and **paywalls** for Telegram Bots. You can create pretty onboardings with minimal adjustments to our presets or easily create your own custom flows with our web components – thanks to **Telegram Mini Apps**.
 
