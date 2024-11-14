@@ -73,7 +73,7 @@ export default defineConfig({
           pagination: 'count',
           title: 'Fund Assets',
           description:
-            'Lists can be used to showcase <b>features</b> of your product. Items support customizable icons',
+            'NiftyFund diversifies into a variety of assets including',
           list: [
             {
               media: {
@@ -81,7 +81,7 @@ export default defineConfig({
                 src: import('./assets/icons/guide.svg'),
                 size: 30,
               },
-              text: 'Some cool feature',
+              text: 'Nodes',
             },
             {
               media: {
@@ -89,7 +89,7 @@ export default defineConfig({
                 src: import('./assets/icons/track.svg'),
                 size: 30,
               },
-              text: 'Some very cool feature',
+              text: 'Cryptocurrency',
             },
             {
               media: {
@@ -97,7 +97,23 @@ export default defineConfig({
                 src: import('./assets/icons/time.svg'),
                 size: 30,
               },
-              text: 'Some extremely cool feature',
+              text: 'NFTs',
+            },
+	    {
+              media: {
+                type: 'icon',
+                src: import('./assets/icons/time.svg'),
+                size: 30,
+              },
+              text: 'RWAs',
+            },
+	    {
+              media: {
+                type: 'icon',
+                src: import('./assets/icons/time.svg'),
+                size: 30,
+              },
+              text: 'Precious Metals',
             },
           ],
           button: 'Next',
