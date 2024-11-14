@@ -46,7 +46,7 @@ export default defineConfig({
           shape: 'square',
           pagination: 'count',
           title: 'Survey',
-          description: 'Please fill in the form',
+          description: 'How many nodes do you own',
           form: [
             {
               id: 'number_from_form',
@@ -55,7 +55,7 @@ export default defineConfig({
             },
             {
               id: 'checkbox_from_form',
-              placeholder: 'I am interested in RWAs',
+              placeholder: 'I am also interested in RWAs',
               type: 'checkbox',
             },
           ],
