@@ -14,7 +14,7 @@ export default defineConfig({
             size: 100,
           },
           shape: 'square',
-          pagination: 'count',
+          //pagination: 'count',
           title: 'Welcome to NiftyFund',
           description:
             "NiftyFund offers exposure to <b>Node Running</b>, <b>AI-Based Cryptocurrency Trading</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Precious Metals</b> AND <b>Real-World Assets (RWAs)</b> thanks to the easy to access, revolutionary Proof of Sharing consensus mechanism!",
