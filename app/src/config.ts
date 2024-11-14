@@ -149,7 +149,7 @@ export default defineConfig({
         size: 150,
       },
       shape: 'square',
-      title: 'Your beautiful Paywall',
+      title: 'Checkout Now',
       list: [
         'Adjustable product cards',
         '<b>👛 Wallet Pay</b> and <b>Telegram Payments</b> ready. Add custom methods easily',
