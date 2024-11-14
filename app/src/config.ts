@@ -93,7 +93,7 @@ export default defineConfig({
             {
               media: {
                 type: 'icon',
-                src: import('./assets/icons/guide.svg'),
+                src: import('./assets/icons/track.svg'),
                 size: 30,
               },
               text: 'Nodes',
@@ -109,7 +109,7 @@ export default defineConfig({
             {
               media: {
                 type: 'icon',
-                src: import('./assets/icons/time.svg'),
+                src: import('./assets/icons/track.svg'),
                 size: 30,
               },
               text: 'NFTs',
@@ -117,7 +117,7 @@ export default defineConfig({
 	    {
               media: {
                 type: 'icon',
-                src: import('./assets/icons/time.svg'),
+                src: import('./assets/icons/track.svg'),
                 size: 30,
               },
               text: 'RWAs',
@@ -125,7 +125,7 @@ export default defineConfig({
 	    {
               media: {
                 type: 'icon',
-                src: import('./assets/icons/time.svg'),
+                src: import('./assets/icons/track.svg'),
                 size: 30,
               },
               text: 'Precious Metals',
