@@ -99,7 +99,6 @@ export default defineConfig({
               },
               text: 'Nodes',
             },
-            {
               media: {
                 type: 'icon',
                 src: import('./assets/icons/track.svg'),
