@@ -28,7 +28,7 @@ export default defineConfig({
             src: import('./assets/img/durov.webp'),
           },
           shape: 'rounded',
-          pagination: 'count',
+          //pagination: 'count',
           title: 'Invest with Peace of Mind and Autonomy',
           description:
             "<b>Say NO to FOMO</b>... This is just the beginning... You are here early... Congratulations!",
@@ -44,7 +44,7 @@ export default defineConfig({
             size: 100,
           },
           shape: 'square',
-          pagination: 'count',
+          //pagination: 'count',
           title: 'Survey',
           description: "How many nodes are you interested in gaining exposure to?",
           form: [
@@ -85,7 +85,7 @@ export default defineConfig({
             size: 100,
           },
           shape: 'square',
-          pagination: 'count',
+          //pagination: 'count',
           title: 'Fund Assets',
           description:
             "NiftyFund diversifies into a variety of assets including, but not limited to:",
@@ -142,7 +142,7 @@ export default defineConfig({
             size: 100,
           },
           shape: 'square',
-          pagination: 'count',
+          //pagination: 'count',
           textAlign: 'center',
           title: 'But onboarding slides are boring...',
           description: "Let's go to Invest and Earn Now :)",
