@@ -149,9 +149,10 @@ export default defineConfig({
         size: 150,
       },
       shape: 'square',
-      title: 'Checkout Now',
+      title: 'Invest',
       list: [
-        '<b>👛 Wallet Pay</b> and <b>Telegram Payments</b> ready',
+	'<b>Exclusive Airdrops</b> and <b>Rewards</b> for all contributions equivalent to your share of the fund',
+        '<b>Wallet Pay</b> and <b>Telegram Payments</b> ready',
         'Subscriptions or One-time payments',
       ],
       products: [
