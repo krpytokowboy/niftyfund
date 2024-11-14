@@ -31,7 +31,7 @@ export default defineConfig({
           pagination: 'count',
           title: 'Invest with Peace of Mind & Full Autonomy',
           description:
-            "This is just the beginning... You are here early... Congratulations!",
+            'This is just the beginning... You are here early... Congratulations!',
           button: 'Next',
         },
 
@@ -99,6 +99,7 @@ export default defineConfig({
               },
               text: 'Nodes',
             },
+	    {
               media: {
                 type: 'icon',
                 src: import('./assets/icons/track.svg'),
