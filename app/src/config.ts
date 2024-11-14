@@ -46,7 +46,7 @@ export default defineConfig({
           shape: 'square',
           pagination: 'count',
           title: 'Survey',
-          description: 'How many nodes do you own',
+          description: "How many nodes are you interested in gaining exposure to?",
           form: [
             {
               id: 'number_from_form',
