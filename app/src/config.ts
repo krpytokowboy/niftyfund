@@ -67,7 +67,7 @@ export default defineConfig({
           media: {
             type: 'sticker',
             src: import('./assets/stickers/duck_juggling.tgs'),
-            size: 150,
+            size: 250,
           },
           shape: 'square',
           pagination: 'count',
@@ -129,10 +129,10 @@ export default defineConfig({
           shape: 'square',
           pagination: 'count',
           textAlign: 'center',
-          title: 'But onboarding slides are not enough...',
-          description: "Let's go to Pay Now",
+          title: 'But onboarding slides are boring...',
+          description: "Let's go to Invest Now :)",
           button: {
-            content: 'Go to Paywall',
+            content: 'Invest',
             to: '/paywall',
           },
         },
