@@ -45,7 +45,7 @@ export default defineConfig({
           },
           shape: 'square',
           pagination: 'count',
-          title: 'How many nodes would you like today?',
+          title: 'How many nodes would you like today',
           description: 'Please fill in the form',
           form: [
             {
@@ -55,7 +55,7 @@ export default defineConfig({
             },
             {
               id: 'checkbox_from_form',
-              placeholder: 'I'm interested in RWAs',
+              placeholder: 'Checkbox',
               type: 'checkbox',
             },
           ],
