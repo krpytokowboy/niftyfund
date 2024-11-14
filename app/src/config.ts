@@ -151,7 +151,7 @@ export default defineConfig({
       shape: 'square',
       title: 'Checkout Now',
       list: [
-        '<b>👛 Wallet Pay</b> and <b>Telegram Payments</b> ready. Add custom methods easily',
+        '<b>👛 Wallet Pay</b> and <b>Telegram Payments</b> ready',
         'Subscriptions or One-time payments',
       ],
       products: [
