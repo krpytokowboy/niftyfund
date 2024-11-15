@@ -6,22 +6,8 @@ export default defineConfig({
   pages: [
     {
       slides: [
-        // intro
-        {
-          media: {
-            type: 'sticker',
-            src: import('./assets/stickers/duck_hello.tgs'),
-            size: 100,
-          },
-          shape: 'square',
-          //pagination: 'count',
-          title: "<h1 style="text-align:center;">Welcome to NiftyFund :)</h1>",
-          description:
-            "<alNiftyFund is an <b>open, community-oriented investment fund</b> that offers <b>fractionalized</b> ownership and exposure to <b>Node Operations</b>, <b>AI-Driven Cryptocurrency Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Real-World Assets (RWAs)</b> and <b>Precious Metals</b> thanks to blockchain technology advancements and the easy-to-access, revolutionary fusion of Proof-of-Sharing and Proof-of-Engagement consensus mechanisms!",
-          button: 'Next',
-        },
 
-        // image
+        // welcome
         {
           media: {
             type: 'image',
@@ -31,52 +17,7 @@ export default defineConfig({
           //pagination: 'count',
           title: 'Invest with Peace of Mind and Autonomy',
           description:
-<<<<<<< HEAD
-            "<b>Welcome to NiftyFund. 🥳 🫶 🎉</b> NiftyFund is an <b>open, community-oriented investment fund</b> that offers <b>fractionalized</b> ownership and exposure to <b>Node Operations</b>, <b>AI-Driven Cryptocurrency Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Real-World Assets (RWAs)</b> and <b>Precious Metals</b> thanks to blockchain technology advancements and the easy-to-access, revolutionary fusion of Proof-of-Sharing and Proof-of-Engagement consensus mechanisms!",
-	list: [
-            {
-              media: {
-                type: 'icon',
-                src: import('./assets/icons/track.svg'),
-                size: 30,
-              },
-              text: 'Node Ops',
-            },
-            {
-              media: {
-                type: 'icon',
-                src: import('./assets/icons/track.svg'),
-                size: 30,
-              },
-              text: 'Cryptocurrency',
-            },
-            {
-              media: {
-                type: 'icon',
-                src: import('./assets/icons/track.svg'),
-                size: 30,
-              },
-              text: 'NFTs',
-            },
-	    {
-              media: {
-                type: 'icon',
-                src: import('./assets/icons/track.svg'),
-                size: 30,
-              },
-              text: 'RWAs',
-            },
-	    {
-              media: {
-                type: 'icon',
-                src: import('./assets/icons/track.svg'),
-                size: 30,
-              },
-              text: 'Precious Metals',
-            },
-=======
-            "<b>Say NO to FOMO</b>!!! This is just the beginning... You are here early... Congratulations! 🥳 🫶 🎉",
->>>>>>> parent of 1d0a850 (Simplify it)
+            "<b>Say NO to FOMO</b>!!! This is just the beginning... You are here early... Congratulations! 🥳 🫶 🎉. NiftyFund is an <b>open, community-oriented investment fund</b> that offers <b>fractionalized</b> ownership and exposure to <b>Node Operations</b>, <b>AI-Driven Cryptocurrency Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Real-World Assets (RWAs)</b> and <b>Precious Metals</b> thanks to blockchain technology advancements and the easy-to-access, revolutionary fusion of Proof-of-Sharing and Proof-of-Engagement consensus mechanisms!",
           button: 'Next',
         },
 
