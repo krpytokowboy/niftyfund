@@ -17,7 +17,7 @@ export default defineConfig({
           //pagination: 'count',
           title: 'Welcome to NiftyFund',
           description:
-            "NiftyFund offers fractionalized ownership and exposure to <b>Nodes</b>, <b>AI-Driven Cryptocurrency Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Precious Metals</b> and <b>Real-World Assets (RWAs)</b> thanks to blockchain technology advancements and the easy-to-access, revolutionary fusion of Proof-of-Sharing and Proof-of-Engagement consensus mechanisms!",
+            "NiftyFund offers fractionalized ownership and exposure to <b>Node Operations</b>, <b>AI-Driven Cryptocurrency Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Precious Metals</b> and <b>Real-World Assets (RWAs)</b> thanks to blockchain technology advancements and the easy-to-access, revolutionary fusion of Proof-of-Sharing and Proof-of-Engagement consensus mechanisms!",
           button: 'Next',
         },
 
@@ -96,7 +96,7 @@ export default defineConfig({
                 src: import('./assets/icons/track.svg'),
                 size: 30,
               },
-              text: 'Nodes',
+              text: 'Node Ops',
             },
             {
               media: {
