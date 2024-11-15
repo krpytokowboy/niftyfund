@@ -174,9 +174,9 @@ export default defineConfig({
         {
           id: '1_month_pleb_subscription',
           title: 'Pleb Subscription',
-          description: '$5/mo',
+          description: '$50/mo',
           discount: '',
-          price: 5,
+          price: 50,
         },
         {
           id: '1_month_salmon_subscription',
