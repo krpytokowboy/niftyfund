@@ -17,7 +17,7 @@ export default defineConfig({
           //pagination: 'count',
           title: 'Welcome to NiftyFund',
           description:
-            "NiftyFund offers fractionalized ownership and exposure to <b>Node Operations</b>, <b>AI-Driven Cryptocurrency Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Precious Metals</b> and <b>Real-World Assets (RWAs)</b> thanks to blockchain technology advancements and the easy-to-access, revolutionary fusion of Proof-of-Sharing and Proof-of-Engagement consensus mechanisms!",
+            "NiftyFund is an open, community-oriented investment fund that offers fractionalized ownership and exposure to <b>Node Operations</b>, <b>AI-Driven Cryptocurrency Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Precious Metals</b> and <b>Real-World Assets (RWAs)</b> thanks to blockchain technology advancements and the easy-to-access, revolutionary fusion of Proof-of-Sharing and Proof-of-Engagement consensus mechanisms!",
           button: 'Next',
         },
 
@@ -166,7 +166,7 @@ export default defineConfig({
       shape: 'square',
       title: 'Invest and Earn',
       list: [
-	'<b>Airdrops</b> and <b>Rewards</b> for all contributions equivalent to your share of the fund',
+	'<b>Airdrops</b> and <b>Rewards</b> for all contributions equivalent to your share of the community fund',
         '<b>Subscriptions</b> or <b>One-Time Payments</b>',
 	'<b>Credit Cards</b> or <b>Crypto</b> kindly accepted',
       ],
