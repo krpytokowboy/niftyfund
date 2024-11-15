@@ -46,12 +46,17 @@ export default defineConfig({
           shape: 'square',
           //pagination: 'count',
           title: 'Survey',
-          description: "How many nodes are you interested in gaining exposure to?",
+          description: "What are you interested in?",
           form: [
-            {
-              id: 'number_nodes_form',
-              placeholder: 'Number of Nodes',
-              type: 'number',
+            //{
+            //  id: 'number_nodes_form',
+            //  placeholder: 'Number of Nodes',
+            //  type: 'number',
+            //},
+	    {
+              id: 'checkbox_nodes_form',
+              placeholder: 'I am interested in Nodes',
+              type: 'checkbox',
             },
 	    {
               id: 'checkbox_crypto_form',
@@ -88,7 +93,7 @@ export default defineConfig({
           //pagination: 'count',
           title: 'Fund Assets',
           description:
-            "NiftyFund diversifies into a variety of assets including, but not limited to:",
+            "NiftyFund diversifies in a variety of assets including, but not limited to:",
           list: [
             {
               media: {
