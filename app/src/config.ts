@@ -166,7 +166,7 @@ export default defineConfig({
       shape: 'square',
       title: 'Invest and Earn',
       list: [
-	'<b>Airdrops</b> and <b>Rewards</b> for all contributions equivalent to your share of the community fund',
+	'<b>Airdrops</b> and <b>Rewards</b> are equivalent to your share of the community fund',
         '<b>Subscriptions</b> or <b>One-Time Payments</b>',
 	'<b>Credit Cards</b> or <b>Crypto</b> kindly accepted',
       ],
