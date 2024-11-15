@@ -187,10 +187,17 @@ export default defineConfig({
         },
 	{
           id: '1_month_tuna_subscription',
-          title: 'Salmon Subscription',
+          title: 'Tuna Subscription',
           description: '$250/month',
           discount: '',
           price: 100,
+        },
+	{
+          id: '1_time_fee_1k',
+          title: 'Shark Contribution',
+          description: '$1,000 one-time',
+          discount: '+0.5% Share Bonus',
+          price: 1000,
         },
         {
           id: '1_time_fee_5k',
