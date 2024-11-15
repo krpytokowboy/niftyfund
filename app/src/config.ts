@@ -145,7 +145,7 @@ export default defineConfig({
           //pagination: 'count',
           textAlign: 'center',
           title: 'But onboarding slides are boring...',
-          description: "Let's go to Invest and Earn Now :)",
+          description: "Let's Invest and Earn Now! :)",
           button: {
             content: 'Invest and Earn',
             to: '/paywall',
