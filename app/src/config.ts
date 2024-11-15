@@ -182,14 +182,14 @@ export default defineConfig({
           id: '1_month_salmon_subscription',
           title: 'Salmon Subscription',
           description: '$100/month',
-          discount: 'Discount 50%',
+          discount: '',
           price: 100,
         },
 	{
           id: '1_month_tuna_subscription',
           title: 'Salmon Subscription',
           description: '$250/month',
-          discount: 'Discount 50%',
+          discount: '',
           price: 100,
         },
         {
