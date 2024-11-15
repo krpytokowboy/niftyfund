@@ -190,7 +190,7 @@ export default defineConfig({
           title: 'Tuna Subscription',
           description: '$250/mo',
           discount: '',
-          price: 100,
+          price: 250,
         },
 	{
           id: '1_time_fee_1k',
@@ -204,7 +204,7 @@ export default defineConfig({
           title: 'Whale Shark Contribution',
           description: '$2,500',
           discount: '+0.25% Bonus',
-          price: 1000,
+          price: 2500,
         },
         {
           id: '1_time_fee_5k',
