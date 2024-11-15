@@ -17,7 +17,7 @@ export default defineConfig({
           //pagination: 'count',
           title: 'Invest with Peace of Mind and Autonomy',
           description:
-            "<b>Welcome to NiftyFund 🥳 🫶 🎉</b> <br><br> <b>NiftyFund is an <b>open, community-oriented investment fund</b> that offers <b>fractionalized</b> ownership and exposure to <b>Node Operations</b>, <b>AI-Driven Cryptocurrency Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Real-World Assets (RWAs)</b> and <b>Precious Metals</b> thanks to blockchain technology advancements and the easy-to-access, revolutionary fusion of Proof-of-Sharing and Proof-of-Engagement consensus mechanisms!",
+            "<b>Welcome to NiftyFund. 🥳 🫶 🎉</b> NiftyFund is an <b>open, community-oriented investment fund</b> that offers <b>fractionalized</b> ownership and exposure to <b>Node Operations</b>, <b>AI-Driven Cryptocurrency Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Real-World Assets (RWAs)</b> and <b>Precious Metals</b> thanks to blockchain technology advancements and the easy-to-access, revolutionary fusion of Proof-of-Sharing and Proof-of-Engagement consensus mechanisms!",
 	list: [
             {
               media: {
