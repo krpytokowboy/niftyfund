@@ -172,8 +172,8 @@ export default defineConfig({
       ],
       products: [
         {
-          id: '1_month_pleb_subscription',
-          title: 'Pleb Subscription',
+          id: '1_month_shrimp_subscription',
+          title: 'Shrimp Subscription',
           description: '$50/mo',
           discount: '',
           price: 50,
