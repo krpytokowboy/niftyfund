@@ -70,6 +70,8 @@ export default defineConfig({
             to: '/paywall',
           },
         },
+      ],
+    },
 
     // paywall
     {
