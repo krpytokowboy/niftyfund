@@ -17,7 +17,7 @@ export default defineConfig({
           //pagination: 'count',
           title: 'Invest with Peace of Mind',
           description:
-            "Welcome to an <b>open, community-oriented investment fund</b> that offers <b>fractionalized</b> ownership and exposure to <b>Node Operations</b>, <b>AI-Driven Cryptocurrency Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Real-World Assets (RWAs)</b> and <b>Precious Metals</b> thanks to blockchain technology and our revolutionary fusion of Proof-of-Sharing and Proof-of-Engagement consensus.",
+            "Welcome to an <b>open, community-oriented investment fund</b> that offers <b>fractionalized</b> ownership and exposure to <b>Node Operations</b>, <b>AI-Driven Cryptocurrency Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Real-World Assets (RWAs)</b> and <b>Precious Metals</b> thanks to blockchain technology and our revolutionary fusion of Proof-of-Sharing and Proof-of-Engagement consensus ecosystem.",
           button: {
             content: 'Invest and Earn',
             to: '/paywall',
