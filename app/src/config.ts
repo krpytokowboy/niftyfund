@@ -17,7 +17,7 @@ export default defineConfig({
           //pagination: 'count',
           title: 'Invest with Peace of Mind and Autonomy',
           description:
-            "<b>Say NO to FOMO</b>!!! This is just the beginning... You are here early... Congratulations! 🥳 🫶 🎉. NiftyFund is an <b>open, community-oriented investment fund</b> that offers <b>fractionalized</b> ownership and exposure to <b>Node Operations</b>, <b>AI-Driven Cryptocurrency Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Real-World Assets (RWAs)</b> and <b>Precious Metals</b> thanks to blockchain technology advancements and the easy-to-access, revolutionary fusion of Proof-of-Sharing and Proof-of-Engagement consensus mechanisms!",
+            "NiftyFund is an <b>open, community-oriented investment fund</b> that offers <b>fractionalized</b> ownership and exposure to <b>Node Operations</b>, <b>AI-Driven Cryptocurrency Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Real-World Assets (RWAs)</b> and <b>Precious Metals</b> thanks to blockchain technology advancements and the easy-to-access, revolutionary fusion of Proof-of-Sharing and Proof-of-Engagement consensus mechanisms!",
           button: 'Next',
         },
 
@@ -65,85 +65,11 @@ export default defineConfig({
               type: 'checkbox',
             },
           ],
-          button: 'Next',
-        },
-
-        // list
-        {
-          media: {
-            type: 'sticker',
-            src: import('./assets/stickers/duck_juggling.tgs'),
-            size: 100,
-          },
-          shape: 'square',
-          //pagination: 'count',
-          title: 'Fund Assets',
-          description:
-            "NiftyFund diversifies in a variety of assets including, but not limited to:",
-          list: [
-            {
-              media: {
-                type: 'icon',
-                src: import('./assets/icons/track.svg'),
-                size: 30,
-              },
-              text: 'Node Ops',
-            },
-            {
-              media: {
-                type: 'icon',
-                src: import('./assets/icons/track.svg'),
-                size: 30,
-              },
-              text: 'Cryptocurrency',
-            },
-            {
-              media: {
-                type: 'icon',
-                src: import('./assets/icons/track.svg'),
-                size: 30,
-              },
-              text: 'NFTs',
-            },
-	    {
-              media: {
-                type: 'icon',
-                src: import('./assets/icons/track.svg'),
-                size: 30,
-              },
-              text: 'RWAs',
-            },
-	    {
-              media: {
-                type: 'icon',
-                src: import('./assets/icons/track.svg'),
-                size: 30,
-              },
-              text: 'Precious Metals',
-            },
-          ],
-          button: 'Next',
-        },
-
-        // go to paywall slide
-        {
-          media: {
-            type: 'sticker',
-            src: import('./assets/stickers/duck_love.tgs'),
-            size: 100,
-          },
-          shape: 'square',
-          //pagination: 'count',
-          textAlign: 'center',
-          title: 'But onboarding slides are boring...',
-          description: "Let's Invest and Earn Now! :)",
           button: {
             content: 'Invest and Earn',
             to: '/paywall',
           },
         },
-      ],
-    },
 
     // paywall
     {
