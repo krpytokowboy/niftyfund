@@ -19,7 +19,7 @@ export default defineConfig({
           description:
             "Welcome to an <b>open, community-oriented fund</b> that offers <b>fractionalized</b> ownership of <b>Node Operations</b>, <b>AI Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Real-World Assets (RWAs)</b> and <b>Precious Metals</b> thanks to blockchain technology and our revolutionary Invest in Peace Protocol  (IIPP).",
           button: {
-            content: 'Invest and Earn',
+            content: 'Invest in Peace',
             to: '/paywall',
           },
         },
@@ -36,7 +36,7 @@ export default defineConfig({
         size: 100,
       },
       shape: 'square',
-      title: 'Invest and Earn',
+      title: 'Invest in Peace',
       list: [
 	'<b>Airdrops</b> and <b>Rewards</b> are equivalent to your share of the community fund',
         '<b>Subscriptions</b> or <b>One-Time Payments</b>',
