@@ -17,7 +17,7 @@ export default defineConfig({
           //pagination: 'count',
           title: 'Invest in Peace',
           description:
-            "Welcome to an <b>open, community-oriented fund</b> that offers <b>fractionalized</b> ownership of <b>Node Operations</b>, <b>AI Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Real-World Assets (RWAs)</b> and <b>Precious Metals</b> thanks to blockchain technology and our revolutionary Proof-of-Sharing and Proof-of-Engagement consensus ecosystem.",
+            "Welcome to an <b>open, community-oriented fund</b> that offers <b>fractionalized</b> ownership of <b>Node Operations</b>, <b>AI Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Real-World Assets (RWAs)</b> and <b>Precious Metals</b> thanks to blockchain technology and our revolutionary Invest in Peace Protocol  (IIPP).",
           button: {
             content: 'Invest and Earn',
             to: '/paywall',
