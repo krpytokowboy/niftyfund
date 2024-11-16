@@ -38,7 +38,7 @@ export default defineConfig({
       shape: 'square',
       title: "Invest in $PEACE",
       list: [
-	'<b>Airdrops</b> and <b>Rewards</b> are equivalent to your share of peace',
+	'<b>Airdrops</b> and <b>Rewards</b> are equivalent to your share of peace offered',
         '<b>Subscriptions</b> or <b>One-Time Payments</b>',
 	'<b>Credit Cards</b> or <b>Crypto</b> kindly accepted',
       ],
