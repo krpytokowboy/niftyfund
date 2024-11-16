@@ -15,11 +15,11 @@ export default defineConfig({
           },
           shape: 'rounded',
           //pagination: 'count',
-          title: 'Invest in Peace',
+          title: "Invest in $PEACE",
           description:
             "Welcome to an <b>open, community-oriented fund</b> that offers <b>fractionalized</b> ownership of <b>Node Operations</b>, <b>AI Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Real-World Assets (RWAs)</b> and <b>Precious Metals</b> thanks to blockchain technology and our revolutionary Invest in Peace Protocol  (IIPP).",
           button: {
-            content: 'Invest in Peace',
+            content: "Invest in $PEACE",
             to: '/paywall',
           },
         },
@@ -36,9 +36,9 @@ export default defineConfig({
         size: 100,
       },
       shape: 'square',
-      title: 'Invest in Peace',
+      title: "Invest in $PEACE",
       list: [
-	'<b>Airdrops</b> and <b>Rewards</b> are equivalent to your share of sharing peace',
+	'<b>Airdrops</b> and <b>Rewards</b> are equivalent to your share of peace',
         '<b>Subscriptions</b> or <b>One-Time Payments</b>',
 	'<b>Credit Cards</b> or <b>Crypto</b> kindly accepted',
       ],
