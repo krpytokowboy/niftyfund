@@ -18,53 +18,6 @@ export default defineConfig({
           title: 'Invest with Peace of Mind',
           description:
             "Welcome to an <b>open, community-oriented investment fund</b> that offers <b>fractionalized</b> ownership and exposure to <b>Node Operations</b>, <b>AI-Driven Cryptocurrency Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Real-World Assets (RWAs)</b> and <b>Precious Metals</b> thanks to blockchain technology and easy-to-access, revolutionary fusion of Proof-of-Sharing and Proof-of-Engagement consensus.",
-          button: 'Next',
-        },
-
-        // form
-        {
-          extends: 'form', // note, it's important to extend from 'form' here
-          media: {
-            type: 'sticker',
-            src: import('./assets/stickers/duck_spy.tgs'),
-            size: 100,
-          },
-          shape: 'square',
-          //pagination: 'count',
-          title: 'Survey',
-          description: "What are you interested in?",
-          form: [
-            //{
-            //  id: 'number_nodes_form',
-            //  placeholder: 'Number of Nodes',
-            //  type: 'number',
-            //},
-	    {
-              id: 'checkbox_nodes_form',
-              placeholder: 'I am interested in Nodes',
-              type: 'checkbox',
-            },
-	    {
-              id: 'checkbox_crypto_form',
-              placeholder: 'I am interested in Crypto',
-              type: 'checkbox',
-            },
-	    {
-              id: 'checkbox_nft_form',
-              placeholder: 'I am interested in NFTs',
-              type: 'checkbox',
-            },
-            {
-              id: 'checkbox_rwa_form',
-              placeholder: 'I am interested in RWAs',
-              type: 'checkbox',
-            },
-	    {
-              id: 'checkbox_metals_form',
-              placeholder: 'I am also interested in Precious Metals',
-              type: 'checkbox',
-            },
-          ],
           button: {
             content: 'Invest and Earn',
             to: '/paywall',
