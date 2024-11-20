@@ -15,11 +15,11 @@ export default defineConfig({
           },
           shape: 'rounded',
           //pagination: 'count',
-          title: "Invest in $PEACE",
+          title: "Invest and Earn",
           description:
-            "Welcome to an <b>open, community-oriented fund</b> that offers <b>fractionalized</b> ownership of <b>Node Operations</b>, <b>AI Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Real-World Assets (RWAs)</b> and <b>Precious Metals</b> thanks to blockchain technology and our revolutionary Proof of Peace (PoP) protocol. When you contribute to the fund you  earn $PEACE, which represents your share of the fund and the airdrop rewards.",
+            "Welcome to an <b>open, community-oriented fund</b> that offers <b>fractionalized</b> ownership of <b>Node Operations</b>, <b>AI Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Real-World Assets (RWAs)</b> and <b>Precious Metals</b> thanks to blockchain technology. Increasing your $PEACE  holdings increases your ownership share of the fund as well as the airdrop rewards. $PEACE tokens can be exchanged for $USDC directly from the fund treasury. NOTE: Reducing your share of $PEACE reduces your share of ownership and rewards.",
           button: {
-            content: "Invest in $PEACE",
+            content: "Invest and Earn",
             to: '/paywall',
           },
         },
