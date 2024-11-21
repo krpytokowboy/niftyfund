@@ -17,7 +17,7 @@ export default defineConfig({
           //pagination: 'count',
           title: "Invest and Earn",
           description:
-            "Welcome to an <b>open, community-oriented fund</b> that offers <b>fractionalized</b> ownership of <b>Node Operations</b>, <b>AI Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Real-World Assets (RWAs)</b> and <b>Precious Metals</b> thanks to blockchain technology. <br><br>Increasing your ownership share of the fund increases your rewards.",
+            "Welcome to an <b>open, community-oriented fund</b> that offers <b>fractionalized</b> ownership of <b>Node Operations</b>, <b>AI Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Real-World Assets (RWAs)</b> and <b>Precious Metals</b> thanks to blockchain technology.",
           button: {
             content: "Invest and Earn",
             to: '/paywall',
