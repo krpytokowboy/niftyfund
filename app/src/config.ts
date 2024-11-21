@@ -17,7 +17,7 @@ export default defineConfig({
           //pagination: 'count',
           title: "Invest and Earn",
           description:
-            "Welcome to an <b>open, community-oriented fund</b> that offers <b>fractionalized</b> ownership of <b>Node Operations</b>, <b>AI Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Real-World Assets (RWAs)</b> and <b>Precious Metals</b> thanks to blockchain technology. Increasing your $PEACE  holdings increases your ownership share of the fund as well as the airdrop rewards. $PEACE tokens can be exchanged for $USDC directly from the fund treasury. NOTE: Reducing your share of $PEACE reduces your share of ownership and rewards.",
+            "Welcome to an <b>open, community-oriented fund</b> that offers <b>fractionalized</b> ownership of <b>Node Operations</b>, <b>AI Trading Strategies</b>, <b>Non-Fungible Tokens (NFTs)</b>, <b>Real-World Assets (RWAs)</b> and <b>Precious Metals</b> thanks to blockchain technology. <br><br>Increasing your $PEACE  holdings increases your ownership share of the fund as well as the airdrop rewards. $PEACE tokens can be exchanged for $USDC directly from the fund treasury. NOTE: Reducing your share of $PEACE reduces your share of ownership and rewards.",
           button: {
             content: "Invest and Earn",
             to: '/paywall',
